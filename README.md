@@ -1,2 +1,2 @@
-# AI-video-analysis-for-safety-monitoring-in-disassembly-
+# AI-video-analysis-for-safety-monitoring-in-disassembly
 The EasyMocap library is used to analyze videos of an operator performing pick-and-place and screwdriving tasks during the disassembly of an Electronic Pneumatic Module. The videos are recorded using RGB cameras in the Politecnico di Milano laboratory. This analysis makes it possible to identify and monitor potentially dangerous hand positions.
