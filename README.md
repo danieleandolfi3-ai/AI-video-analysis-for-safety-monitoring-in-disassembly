@@ -43,3 +43,5 @@ The 3D Points Estimation section executes all the steps described in the report.
 * task_data/videos  – contains the input task videos of each camera.
 * task_data/extri .yml – contains the extrinsic parameters of each camera.
 * task_data/intri .yml – contains the intrinsic parameters of each camera
+
+![Filters](https://github.com/danieleandolfi3-ai/AI-video-analysis-for-safety-monitoring-in-disassembly/blob/main/worker-safety_CV.jpg)
